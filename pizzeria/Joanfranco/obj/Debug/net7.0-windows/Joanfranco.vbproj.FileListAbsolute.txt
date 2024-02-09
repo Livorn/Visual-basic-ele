@@ -1,0 +1,35 @@
+C:\Users\Personal\OneDrive\Documentos\programacion\visual basic\pedido pizza\Joanfranco\Joanfranco\bin\Debug\net7.0-windows\Joanfranco.exe
+C:\Users\Personal\OneDrive\Documentos\programacion\visual basic\pedido pizza\Joanfranco\Joanfranco\bin\Debug\net7.0-windows\Joanfranco.deps.json
+C:\Users\Personal\OneDrive\Documentos\programacion\visual basic\pedido pizza\Joanfranco\Joanfranco\bin\Debug\net7.0-windows\Joanfranco.runtimeconfig.json
+C:\Users\Personal\OneDrive\Documentos\programacion\visual basic\pedido pizza\Joanfranco\Joanfranco\bin\Debug\net7.0-windows\Joanfranco.dll
+C:\Users\Personal\OneDrive\Documentos\programacion\visual basic\pedido pizza\Joanfranco\Joanfranco\bin\Debug\net7.0-windows\Joanfranco.pdb
+C:\Users\Personal\OneDrive\Documentos\programacion\visual basic\pedido pizza\Joanfranco\Joanfranco\obj\Debug\net7.0-windows\Joanfranco.vbproj.AssemblyReference.cache
+C:\Users\Personal\OneDrive\Documentos\programacion\visual basic\pedido pizza\Joanfranco\Joanfranco\obj\Debug\net7.0-windows\Joanfranco.Form1.resources
+C:\Users\Personal\OneDrive\Documentos\programacion\visual basic\pedido pizza\Joanfranco\Joanfranco\obj\Debug\net7.0-windows\Joanfranco.vbproj.GenerateResource.cache
+C:\Users\Personal\OneDrive\Documentos\programacion\visual basic\pedido pizza\Joanfranco\Joanfranco\obj\Debug\net7.0-windows\Joanfranco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Personal\OneDrive\Documentos\programacion\visual basic\pedido pizza\Joanfranco\Joanfranco\obj\Debug\net7.0-windows\Joanfranco.AssemblyInfoInputs.cache
+C:\Users\Personal\OneDrive\Documentos\programacion\visual basic\pedido pizza\Joanfranco\Joanfranco\obj\Debug\net7.0-windows\Joanfranco.AssemblyInfo.vb
+C:\Users\Personal\OneDrive\Documentos\programacion\visual basic\pedido pizza\Joanfranco\Joanfranco\obj\Debug\net7.0-windows\Joanfranco.vbproj.CoreCompileInputs.cache
+C:\Users\Personal\OneDrive\Documentos\programacion\visual basic\pedido pizza\Joanfranco\Joanfranco\obj\Debug\net7.0-windows\Joanfranco.dll
+C:\Users\Personal\OneDrive\Documentos\programacion\visual basic\pedido pizza\Joanfranco\Joanfranco\obj\Debug\net7.0-windows\refint\Joanfranco.dll
+C:\Users\Personal\OneDrive\Documentos\programacion\visual basic\pedido pizza\Joanfranco\Joanfranco\obj\Debug\net7.0-windows\Joanfranco.pdb
+C:\Users\Personal\OneDrive\Documentos\programacion\visual basic\pedido pizza\Joanfranco\Joanfranco\obj\Debug\net7.0-windows\Joanfranco.genruntimeconfig.cache
+C:\Users\Personal\OneDrive\Documentos\programacion\visual basic\pedido pizza\Joanfranco\Joanfranco\obj\Debug\net7.0-windows\ref\Joanfranco.dll
+C:\Users\Personal\OneDrive\Documentos\programacion\visual basic\pedido pizza\Joanfranco\Joanfranco\obj\Debug\net7.0-windows\Joanfranco.Resources.resources
+C:\Users\Personal\OneDrive\Documentos\programacion\visual basic\pedido pizza\Actividad 2 - Joanfranco Hernandez (Corte 3)\Joanfranco\bin\Debug\net7.0-windows\Joanfranco.exe
+C:\Users\Personal\OneDrive\Documentos\programacion\visual basic\pedido pizza\Actividad 2 - Joanfranco Hernandez (Corte 3)\Joanfranco\bin\Debug\net7.0-windows\Joanfranco.deps.json
+C:\Users\Personal\OneDrive\Documentos\programacion\visual basic\pedido pizza\Actividad 2 - Joanfranco Hernandez (Corte 3)\Joanfranco\bin\Debug\net7.0-windows\Joanfranco.runtimeconfig.json
+C:\Users\Personal\OneDrive\Documentos\programacion\visual basic\pedido pizza\Actividad 2 - Joanfranco Hernandez (Corte 3)\Joanfranco\bin\Debug\net7.0-windows\Joanfranco.dll
+C:\Users\Personal\OneDrive\Documentos\programacion\visual basic\pedido pizza\Actividad 2 - Joanfranco Hernandez (Corte 3)\Joanfranco\bin\Debug\net7.0-windows\Joanfranco.pdb
+C:\Users\Personal\OneDrive\Documentos\programacion\visual basic\pedido pizza\Actividad 2 - Joanfranco Hernandez (Corte 3)\Joanfranco\obj\Debug\net7.0-windows\Joanfranco.Form1.resources
+C:\Users\Personal\OneDrive\Documentos\programacion\visual basic\pedido pizza\Actividad 2 - Joanfranco Hernandez (Corte 3)\Joanfranco\obj\Debug\net7.0-windows\Joanfranco.Resources.resources
+C:\Users\Personal\OneDrive\Documentos\programacion\visual basic\pedido pizza\Actividad 2 - Joanfranco Hernandez (Corte 3)\Joanfranco\obj\Debug\net7.0-windows\Joanfranco.vbproj.GenerateResource.cache
+C:\Users\Personal\OneDrive\Documentos\programacion\visual basic\pedido pizza\Actividad 2 - Joanfranco Hernandez (Corte 3)\Joanfranco\obj\Debug\net7.0-windows\Joanfranco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Personal\OneDrive\Documentos\programacion\visual basic\pedido pizza\Actividad 2 - Joanfranco Hernandez (Corte 3)\Joanfranco\obj\Debug\net7.0-windows\Joanfranco.AssemblyInfoInputs.cache
+C:\Users\Personal\OneDrive\Documentos\programacion\visual basic\pedido pizza\Actividad 2 - Joanfranco Hernandez (Corte 3)\Joanfranco\obj\Debug\net7.0-windows\Joanfranco.AssemblyInfo.vb
+C:\Users\Personal\OneDrive\Documentos\programacion\visual basic\pedido pizza\Actividad 2 - Joanfranco Hernandez (Corte 3)\Joanfranco\obj\Debug\net7.0-windows\Joanfranco.vbproj.CoreCompileInputs.cache
+C:\Users\Personal\OneDrive\Documentos\programacion\visual basic\pedido pizza\Actividad 2 - Joanfranco Hernandez (Corte 3)\Joanfranco\obj\Debug\net7.0-windows\Joanfranco.dll
+C:\Users\Personal\OneDrive\Documentos\programacion\visual basic\pedido pizza\Actividad 2 - Joanfranco Hernandez (Corte 3)\Joanfranco\obj\Debug\net7.0-windows\refint\Joanfranco.dll
+C:\Users\Personal\OneDrive\Documentos\programacion\visual basic\pedido pizza\Actividad 2 - Joanfranco Hernandez (Corte 3)\Joanfranco\obj\Debug\net7.0-windows\Joanfranco.pdb
+C:\Users\Personal\OneDrive\Documentos\programacion\visual basic\pedido pizza\Actividad 2 - Joanfranco Hernandez (Corte 3)\Joanfranco\obj\Debug\net7.0-windows\Joanfranco.genruntimeconfig.cache
+C:\Users\Personal\OneDrive\Documentos\programacion\visual basic\pedido pizza\Actividad 2 - Joanfranco Hernandez (Corte 3)\Joanfranco\obj\Debug\net7.0-windows\ref\Joanfranco.dll

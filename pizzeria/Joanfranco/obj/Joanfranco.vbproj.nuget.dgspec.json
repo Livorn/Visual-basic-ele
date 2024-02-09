@@ -1,0 +1,65 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Personal\\OneDrive\\Documentos\\programacion\\visual basic\\pedido pizza\\Actividad 2 - Joanfranco Hernandez (Corte 3)\\Joanfranco\\Joanfranco.vbproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Personal\\OneDrive\\Documentos\\programacion\\visual basic\\pedido pizza\\Actividad 2 - Joanfranco Hernandez (Corte 3)\\Joanfranco\\Joanfranco.vbproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Personal\\OneDrive\\Documentos\\programacion\\visual basic\\pedido pizza\\Actividad 2 - Joanfranco Hernandez (Corte 3)\\Joanfranco\\Joanfranco.vbproj",
+        "projectName": "Joanfranco",
+        "projectPath": "C:\\Users\\Personal\\OneDrive\\Documentos\\programacion\\visual basic\\pedido pizza\\Actividad 2 - Joanfranco Hernandez (Corte 3)\\Joanfranco\\Joanfranco.vbproj",
+        "packagesPath": "C:\\Users\\Personal\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Personal\\OneDrive\\Documentos\\programacion\\visual basic\\pedido pizza\\Actividad 2 - Joanfranco Hernandez (Corte 3)\\Joanfranco\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Personal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {}
+        },
+        "frameworks": {
+          "net7.0-windows7.0": {
+            "targetAlias": "net7.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0-windows7.0": {
+          "targetAlias": "net7.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
